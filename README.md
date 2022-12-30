@@ -6,7 +6,7 @@ Libs for MONO games that use photon
 Download the file:
 
 
-Add the DLL to your project: https://cdn.discordapp.com/attachments/1035741687571546153/1058258587706732584/image.png
+Add the DLL to your project: ![image](https://user-images.githubusercontent.com/117307597/210039033-4743b0cd-26ba-43f1-90e5-b6653a936187.png)
 
 
 Use the DLL: ![image](https://user-images.githubusercontent.com/117307597/210039011-eb345c13-c8e3-4c00-937c-df3fb5edf1a3.png)
