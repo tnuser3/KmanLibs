@@ -3,7 +3,7 @@ Libs for MONO games that use photon
 
 # HOW TO USE 
 
-Download the file:
+Download the file: https://github.com/tnuser3/KmanLibs/releases/download/V0.1.0-beta/KmanLibs.dll
 
 
 Add the DLL to your project: ![image](https://user-images.githubusercontent.com/117307597/210039033-4743b0cd-26ba-43f1-90e5-b6653a936187.png)
